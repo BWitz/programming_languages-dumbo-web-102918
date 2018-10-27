@@ -13,7 +13,8 @@ def reformat_languages(languages)
   end
   new_hash
 end
+end
 
 
-style, p_languages
-key, value 
+#style, p_languages
+#key, value 
